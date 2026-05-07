@@ -1,0 +1,13 @@
+cohere
+gdown
+gensim
+langchain
+langchain-community
+langchain-core
+langchain-cohere
+matplotlib
+numpy
+python-dotenv
+requests
+scikit-learn
+transformers
